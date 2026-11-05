@@ -1,43 +1,212 @@
+
 <div align="center">
-  <h1>🚀 Gerardo Adolfo Canales Ramirez | Alias: Ditox</h1>
-  <p><em>"Si puedes imaginarlo, puedes programarlo"</em></p>
+
+  <img src="./assets/ditox-rider.gif" alt="DITOX AI Rider — Futuristic animated banner" width="100%" />
+
+  <h1>GERARDO CANALES <sub>aka DITOX</sub></h1>
+
+  <h3>AI-Assisted Developer · Web Systems · Automation</h3>
+
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=900&color=9D7CFF&center=true&vCenter=true&repeat=true&width=650&lines=Building+real-world+digital+solutions;Agentic+AI+%2B+Software+Engineering;From+ideas+to+production+systems;Design.+Automate.+Deploy."
+    alt="Animated developer introduction"
+  />
+
+  <p>
+    <a href="https://github.com/Gerardox1029">
+      <img src="https://img.shields.io/badge/GitHub-Gerardox1029-161B22?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <img src="https://img.shields.io/badge/Based_in-Arequipa,_Peru-7C3AED?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Focus-AI_%26_Automation-00D9FF?style=for-the-badge&labelColor=101827" />
+  </p>
+
+  <i>"Si puedes imaginarlo, puedes programarlo."</i>
+
 </div>
 
-<br>
+---
 
-Soy un desarrollador y planificador de 20 años, estudiante del tercer año de Ingeniería de Sistemas e Informática en la Universidad Continental Arequipa[cite: 1, 2]. Me apasiona la programación, con una fuerte especialización en desarrollo web, automatización y arquitecturas escalables[cite: 2]. 
+## ◆ About Me
 
-## 🧠 Flujo de Trabajo con Inteligencia Artificial (ByteCOder / Vibe Coder)
+Soy **Gerardo Canales**, conocido como **DITOX**, estudiante de Ingeniería de Sistemas e Informática en la Universidad Continental, Arequipa.
 
-Mi enfoque principal es el manejo de IA agéntica y la optimización de recursos. 
-* **Estructuración y Planificación:** Uso avanzado de Gemini y Notebook para definir requerimientos y flujos de proyecto[cite: 5].
-* **Ejecución Estratégica:** Empleo de entornos como Antigravity IDE de Google, Codex de OpenAI, y Codex CLI[cite: 5, 6]. 
-* **Delegación de Modelos:** Despliegue de modelos "obreros" (bajos) para tareas de ejecución pura, y modelos "pensadores" o planificadores (como Opus 5.5, GPT Sol, 6 o 6.1) para la resolución compleja y estructuración[cite: 5].
-* **Técnicas Avanzadas:** Integración teórica y práctica de ChatGPT Plus y Claude, usando árboles de memoria, skills y archivos `.md` para optimizar el consumo de tokens en proyectos escalables[cite: 5].
+Me enfoco en convertir ideas en **productos digitales funcionales**, combinando desarrollo web, automatización, arquitectura de sistemas y herramientas de inteligencia artificial.
+
+No me limito a escribir código: participo en el diseño de interfaces, definición de requerimientos, planificación de flujos, integración de servicios y despliegue de aplicaciones.
+
+> **Mi enfoque:** construir soluciones útiles, escalables y preparadas para escenarios reales.
 
 ---
 
-## 💻 Proyectos Propios Destacados
+## ◆ Featured Projects
 
-### 📈 Bot de Alertas (Dashboard de Trading)
-Dashboard desarrollado para la gestión 24/7 del mercado de criptomonedas[cite: 2].
-* **Sistema:** Integración de un bot de Telegram ("botsito") que escucha comandos, responde y envía alertas basadas en condiciones e indicadores propios[cite: 2, 3].
-* **Arquitectura:** Diseño modular utilizando bases de datos no relacionales y almacenamiento estático[cite: 2].
-* **Despliegue:** Hosting implementado en el servicio NorthFlank[cite: 3, 5].
-* 🔗 [Ver Proyecto](https://indicdtx--indicalerts-ditox-v1--tcggpbtpgkpk.code.run/) | 🔗 [Repositorio](https://github.com/Gerardox1029/IndicAlerts%201.0.git)[cite: 2]
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🧵 RapiCosturas (Micro App / PWA)
-Servicio web PWA implementado en un entorno real para la empresa RapiCosturas E.I.R.L en Arequipa[cite: 4, 5].
-* **Funcionalidad:** Recepción y registro de envíos entre sedes, integrando almacenamiento en la nube para videos multimedia del taller.
-* **Infraestructura:** Metadatos gestionados en MongoDB, archivos estáticos en Cloudflare R3 y hosting en Netlify[cite: 4].
-* 🔗 [Ver Proyecto](https://rapicosturas.netlify.app/envios?tab=recepcion&site=yanahuara) | 🔗 [Repositorio](https://github.com/Gerardox1029/Rapicosturas.git)[cite: 4]
+### 01 · IndicAlerts
+
+**Trading Dashboard & Telegram Automation**
+
+Plataforma modular para la gestión y seguimiento del mercado de criptomonedas, diseñada para operar continuamente.
+
+**Características**
+
+- Dashboard de control y gestión.
+- Bot de Telegram con alertas automatizadas.
+- Indicadores y condiciones personalizadas.
+- Análisis de canales de YouTube con IA.
+- Broadcast y administración de usuarios.
+- Persistencia de datos y servicios en la nube.
+
+**Ecosistema**
+
+`Telegram Bot` `NoSQL` `Northflank` `AI` `Automation`
+
+<p>
+<a href="https://github.com/Gerardox1029/IndicAlerts1.0">
+<img src="https://img.shields.io/badge/Source_Code-18181B?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+<a href="https://indicdtx--indicalerts-ditox-v1--tcggpbtpgkpk.code.run/">Live Web</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 02 · RapiCosturas
+
+**Enterprise Micro App / PWA**
+
+Aplicación web implementada para **RapiCosturas E.I.R.L.**, orientada a digitalizar procesos operativos entre sedes.
+
+**Características**
+
+- Registro y recepción de envíos.
+- Gestión de operaciones entre sedes.
+- Interfaz responsive para dispositivos móviles.
+- Almacenamiento multimedia en la nube.
+- Administración de metadatos mediante MongoDB.
+- Despliegue web mediante Netlify.
+
+**Ecosistema**
+
+`PWA` `MongoDB` `Netlify` `Cloudflare` `Web App`
+
+<p>
+<a href="https://github.com/Gerardox1029/Rapicosturas">
+<img src="https://img.shields.io/badge/Source_Code-18181B?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+<a href="https://rapicosturas.netlify.app/envios?tab=recepcion&site=yanahuara">Live Web</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## ⚙️ Ecosistema y Tecnologías
+## ◆ AI Engineering & Agentic Workflows
 
-* **Arquitectura Web:** PWA, API REST, Separación Frontend / Backend, y Gestión de APIs[cite: 5].
-* **Entornos & Frameworks:** Node.js, Tailwind, Bootstrap[cite: 5].
-* **Bases de Datos:** MongoDB (No relacional) y bases de datos relacionales[cite: 5].
-* **Infraestructura:** Cloudflare R3, Northflank, gestión de variables de entorno (.env) y GitHub[cite: 5].
-* **Lenguajes:** Python, JavaScript, C#, C++, HTML, CSS, SQL, Java[cite: 5].
+La inteligencia artificial forma parte de mi proceso de desarrollo, desde la planificación hasta la implementación y revisión técnica.
+
+### AI Ecosystem
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/OpenAI-Codex-151521?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/ChatGPT-AI_Workflows-151521?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-Agentic_Coding-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-Planning-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Codex_CLI-Development-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Antigravity-IDE-4355FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NotebookLM-Research-334155?style=for-the-badge" />
+
+</div>
+
+### My AI Development Workflow
+
+```mermaid
+flowchart TD
+    A["Idea / Problema"] --> B["Análisis de requerimientos"]
+    B --> C["Arquitectura y planificación con IA"]
+    C --> D["Descomposición de tareas"]
+    D --> E["Ejecución con agentes de IA"]
+    E --> F["Revisión y pruebas"]
+    F --> G["Despliegue"]
+    F -.->|Iteración| C
+
+    style A fill:#17152e,stroke:#8b5cf6,color:#ffffff
+    style C fill:#28204e,stroke:#a78bfa,color:#ffffff
+    style E fill:#123744,stroke:#22d3ee,color:#ffffff
+    style G fill:#103d33,stroke:#34d399,color:#ffffff
+```
+
+### Agentic Development Practices
+
+**Context Engineering**  
+Organización de contexto, instrucciones y documentación para mejorar la precisión del trabajo con agentes.
+
+**Skills & Structured Workflows**  
+Uso de archivos Markdown, skills, planes de ejecución y separación de responsabilidades.
+
+**Multi-model Strategy**  
+Selección de modelos según complejidad: razonamiento y planificación para decisiones difíciles; modelos ligeros para tareas acotadas.
+
+**Token & Memory Optimization**  
+Estructuración de información y árboles de memoria para mantener continuidad y optimizar recursos en proyectos extensos.
+
+---
+
+## ◆ Technology Ecosystem
+
+### Web & Application Architecture
+
+![Node.js](https://img.shields.io/badge/Node.js-18222D?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-18222D?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-18222D?style=flat-square&logo=bootstrap&logoColor=7952B3)
+![REST API](https://img.shields.io/badge/REST_APIs-18222D?style=flat-square)
+![PWA](https://img.shields.io/badge/Progressive_Web_Apps-18222D?style=flat-square&logo=pwa&logoColor=white)
+
+### Cloud, Databases & Infrastructure
+
+![MongoDB](https://img.shields.io/badge/MongoDB-18222D?style=flat-square&logo=mongodb&logoColor=47A248)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-18222D?style=flat-square&logo=cloudflare&logoColor=F38020)
+![Netlify](https://img.shields.io/badge/Netlify-18222D?style=flat-square&logo=netlify&logoColor=00C7B7)
+![Northflank](https://img.shields.io/badge/Northflank-18222D?style=flat-square)
+![GitHub](https://img.shields.io/badge/GitHub-18222D?style=flat-square&logo=github&logoColor=white)
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-252B39?style=flat-square&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-252B39?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![C#](https://img.shields.io/badge/C%23-252B39?style=flat-square&logo=sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-252B39?style=flat-square&logo=cplusplus&logoColor=00599C)
+![Java](https://img.shields.io/badge/Java-252B39?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-252B39?style=flat-square)
+![HTML5](https://img.shields.io/badge/HTML5-252B39?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-252B39?style=flat-square&logo=css&logoColor=1572B6)
+
+---
+
+<div align="center">
+
+### ◆ Build Beyond Code
+
+**Systems · Automation · AI · Products**
+
+Me interesa desarrollar sistemas que resuelvan problemas reales, integrando diseño, lógica, automatización e inteligencia artificial.
+
+<a href="https://github.com/Gerardox1029?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_MY_PROJECTS-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<sub>Designed by DITOX · Arequipa, Perú</sub>
+
+</div>
