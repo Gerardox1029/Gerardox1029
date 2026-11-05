@@ -3,7 +3,7 @@
 
   <img src="./assets/ditox-rider.gif" alt="DITOX AI Rider — Futuristic animated banner" width="100%" />
 
-  <h1>GERARDO CANALES <sub>alias DITOX</sub></h1>
+  <h1>Gerardo Canales Ramirez <sub>alias DITOX</sub></h1>
 
   <h3>AI-Assisted Developer · Web Systems · Automation</h3>
 
